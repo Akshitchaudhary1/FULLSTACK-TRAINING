@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+  color: tomato;
+}
+body{
+  background-color:#26c6da;
+    
+}
+p{
+    color:purple;
+}
+#About{
+    color: yellowgreen ;
+}
+h2{
+    color: rgb(red, green, blue);
+}
+ul{
+    text-align: center;
+    color:darkmagenta;
+    text-decoration: blueviolet;
+    -ms-text-size-adjust: initial; 
+}
